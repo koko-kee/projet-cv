@@ -1,0 +1,15 @@
+- index.php (ou index.html) : la page d'accueil du site site web
+- css/ : le dossier contenant les fichiers CSS pour le style du site web
+  - style.css : le fichier principal de style
+- js/ : le dossier contenant les fichiers JavaScript pour les fonctionnalités de votre site web
+  - main.js : le fichier principal pour les scripts
+- img/ : le dossier contenant les images pour votre site web
+- inc/ : le dossier contenant les fichiers inclus sur plusieurs pages de votre site web
+  - header.php : le fichier contenant l'en-tête de votre site web (logo, menu de navigation, etc.)
+  - footer.php : le fichier contenant le pied de page de votre site web (informations de contact, copyright, etc.)
+- cv/ : le dossier contenant les fichiers pour les CV générés par les utilisateurs
+- fonts/ : le dossier contenant les polices de caractères pour votre site web
+- admin/ : le dossier contenant les fichiers pour l'interface d'administration de votre site web (si vous en avez une)
+  - login.php : la page de connexion pour l'interface d'administration
+  - dashboard.php : la page principale de l'interface d'administration
+  - users.php : la page pour gérer les utilisateurs du site web (si vous avez une fonctionnalité d'inscription)
